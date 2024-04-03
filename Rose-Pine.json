@@ -1,7 +1,7 @@
 {
-  "shared" : {
-    "backgroundColor" : "#191724",
-    "colorPaletteOverrides" : [
+  "shared": {
+    "backgroundColor": "#191724",
+    "colorPaletteOverrides": [
       "#191724",
       "#eb6f92",
       "#31748f",
@@ -19,7 +19,7 @@
       "#ebbcba",
       "#e0def4"
     ],
-    "foregroundColor" : "#e0def4"
+    "foregroundColor": "#e0def4"
   },
-  "version" : 1
+  "version": 1
 }
