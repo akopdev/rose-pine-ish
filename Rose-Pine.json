@@ -1,5 +1,5 @@
 {
-  "shared": {
+  "dark": {
     "backgroundColor": "#191724",
     "colorPaletteOverrides": [
       "#191724",
@@ -20,6 +20,28 @@
       "#e0def4"
     ],
     "foregroundColor": "#e0def4"
+  },
+  "light": {
+    "backgroundColor": "#faf4ed",
+    "colorPaletteOverrides": [
+      "#232136",
+      "#b4637a",
+      "#286983",
+      "#ea9d34",
+      "#56949f",
+      "#907aa9",
+      "#d7827e",
+      "#575279",
+      "#fffaf3",
+      "#b4637a",
+      "#286983",
+      "#ea9d34",
+      "#56949f",
+      "#907aa9",
+      "#d7827e",
+      "#575279"
+    ],
+    "foregroundColor": "#575279"
   },
   "version": 1
 }
