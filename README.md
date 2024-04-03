@@ -32,3 +32,15 @@ You can also download the JSON files manually to the iSH theme directory, withou
 ### 3. Activate the theme in `Settings > Appearance > Theme`
 
 ## Gallery
+**Rosé Pine**
+![iSH with Rosé Pine](screenshots/main.png)
+
+
+**Rosé Pine Moon**
+![iSH with Rosé Pine Moon](screenshots/moon.png)
+
+
+**Rosé Pine Dawn**
+![iSH with Rosé Pine Dawn](screenshots/dawn.png)
+
+
